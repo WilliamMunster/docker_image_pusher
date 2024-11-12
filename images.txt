@@ -1,1 +1,1 @@
-hectorqin/reader:openj9-3.2.10
+jxxghp/moviepilot-v2:2.0.2
