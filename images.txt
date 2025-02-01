@@ -1,1 +1,2 @@
-jxxghp/moviepilot-v2:2.0.3
+jxxghp/moviepilot-v2:2.2.6
+metatube/metatube-server:latest
