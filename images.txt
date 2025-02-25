@@ -1,1 +1,1 @@
-dyrnq/open-webui:main
+searxng/searxng:latest
