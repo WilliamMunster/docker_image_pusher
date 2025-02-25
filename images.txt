@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin:250127-amd64
+dyrnq/open-webui:main
