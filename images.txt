@@ -1,1 +1,1 @@
-dyrnq/open-webui:latest
+n8nio/n8n:latest
