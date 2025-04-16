@@ -1,1 +1,1 @@
-n8nio/n8n:latest
+dyrnq/open-webui:0.6.3
