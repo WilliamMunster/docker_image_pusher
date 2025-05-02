@@ -1,1 +1,1 @@
-oysmart/running_page
+oysmart/running_page:latest
