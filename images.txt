@@ -1,2 +1,1 @@
-n8nio/n8n:1.107.4
-linuxserver/babybuddy:2.7.1
+docker pull wantcat/trendradar:3.0
