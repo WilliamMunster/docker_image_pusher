@@ -1,1 +1,1 @@
-jxxghp/moviepilot:2.8.7
+linuxserver/homeassistant:2025.12.1
