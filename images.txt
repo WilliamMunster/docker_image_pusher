@@ -1,1 +1,1 @@
-wantcat/trendradar:3.0.4
+jxxghp/moviepilot:2.8.7
