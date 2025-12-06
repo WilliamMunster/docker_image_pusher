@@ -1,1 +1,1 @@
-linuxserver/homeassistant:2025.12.1
+farmos/farmos:4.x
