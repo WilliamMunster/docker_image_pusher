@@ -1,1 +1,1 @@
-docker pull wantcat/trendradar:3.0.4
+wantcat/trendradar:3.0.4
