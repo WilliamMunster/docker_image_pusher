@@ -1,1 +1,1 @@
-farmos/farmos:4.x
+n8nio/n8n:1.123.6
