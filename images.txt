@@ -1,1 +1,1 @@
-mcp/playwright:latest
+jxxghp/moviepilot:2.9.30
