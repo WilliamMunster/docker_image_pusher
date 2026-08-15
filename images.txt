@@ -1,1 +1,1 @@
-jxxghp/moviepilot:2.9.30
+jxxghp/moviepilot-v3:3.0.0
